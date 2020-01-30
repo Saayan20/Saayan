@@ -1,0 +1,7 @@
+POST
+ http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+  "longUrl": "https://www.google.com/search?sxsrf=ACYBGNRhI2AeanOjSFlB8YKBo9gj8YIvFA%3A1580417113257&ei=WUAzXpGmD7qI4-EP3oGH4Ao&q=yellow+messenger+careers&oq=yellow+messenger+ca&gs_l=psy-ab.1.0.0j0i22i30l2.2244.3169..4607...0.1..0.103.287.2j1......0....1..gws-wiz.......0i71j0i67.60UMvifNxYk"
+}
